@@ -1,0 +1,52 @@
+[
+    {
+        "productId":1,
+        "productName":"Samsung Galaxy Note 7",
+        "productCode":"MOB-120",
+        "description":"64GB, Coral Blue",
+        "price":60569,
+        "rating":4,
+        "manufacturer":"Samsung",
+        "osType":"Android"
+    },
+    {
+        "productId":2,
+        "productName":"Apple iPad Mini 2",
+        "productCode":"TAB-120",
+        "description":"16GB, White",
+        "price":19442,
+        "rating":4,
+        "manufacturer":"Apple",
+        "osType":"iOS"
+    },
+    {
+        "productId":3,
+        "productName":"Apple iPhone 11",
+        "productCode":"MOB-220",
+        "description":"64GB, Black",
+        "price":51999,
+        "rating":4.6,
+        "manufacturer":"Apple",
+        "osType":"iOS"
+    },
+    {
+        "productId":4,
+        "productName":"OnePlus 9 Pro",
+        "productCode":"MOB-300",
+        "description":"256GB, Morning Mist",
+        "price":69999,
+        "rating":4.5,
+        "manufacturer":"OnePlus",
+        "osType":"Android"
+    },
+    {
+        "productId":5,
+        "productName":"Apple iPad Air",
+        "productCode":"TAB-220",
+        "description":"64GB, Sky Blue",
+        "price":51900,
+        "rating":4.4,
+        "manufacturer":"Apple",
+        "osType":"iOS"
+    }
+]
