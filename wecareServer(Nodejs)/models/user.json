@@ -1,0 +1,12 @@
+{
+    "name":"Setna",
+    "password":"setna@123",
+    "dateOfBirth":"1996-01-01",
+    "gender":"F",
+    "mobileNumber":1234567890,
+    "email":"setna@gmail.com",
+    "pincode":123456,
+    "city":"Bangalore",
+    "state":"Karnataka",
+    "country":"India"
+}
